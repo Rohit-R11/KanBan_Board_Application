@@ -1,0 +1,11 @@
+com\example\MessagingService\controller\KanBanController.class
+com\example\MessagingService\rabbitMq\UserDTO.class
+com\example\MessagingService\service\MessageService.class
+com\example\MessagingService\model\Task.class
+com\example\MessagingService\rabbitMq\Consumer.class
+com\example\MessagingService\config\SmtpMailSender.class
+com\example\MessagingService\service\MessageServiceImpl.class
+com\example\MessagingService\repository\MessageRepository.class
+com\example\MessagingService\MessagingServiceApplication.class
+com\example\MessagingService\model\User.class
+com\example\MessagingService\rabbitMq\MessageConfiguration.class
